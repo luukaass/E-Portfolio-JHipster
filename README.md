@@ -1,6 +1,6 @@
 # e-Portfolio JHipster
 
-##Requirements
+## Requirements
 1. Java (Development Kit)
 2. Maven (included in IntelliJ and eclipse) / Gradle
 
