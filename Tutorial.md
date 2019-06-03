@@ -1,5 +1,8 @@
 ## Tutorial
 1. Create an folder (e.g. car) and execute the command ``jhipster`` in this folder.
+
+![Initial Screen](https://github.com/luukaass/E-Portfolio-JHipster/blob/master/pictures/installJHipster.PNG)
+
 	* "Monolithic application"
 	* ENTER
 	* "de.dhbw.cars"
