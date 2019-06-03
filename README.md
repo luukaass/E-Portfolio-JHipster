@@ -3,6 +3,7 @@
 ## Requirements
 1. Java (Development Kit)
 2. Maven (included in IntelliJ and eclipse) / Gradle
+3. Git
 
 ## Installation von JHipster
 1. [NodeJS](https://nodejs.org/en/) (LTS version)
